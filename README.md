@@ -7,3 +7,7 @@ The focus is on the flight search, the data may be mocked (JSON), or come from a
 
 The assignment must be made in one of the common front-end frameworks: React, Angular or Vue. 
 There are no requirements with regard to the look & feel.
+
+I build the assignment with React.js
+
+Here is a live version: https://mellow-donut-235230.netlify.app/
